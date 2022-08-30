@@ -5,7 +5,7 @@ Created on Tue Aug 30 18:40:43 2022
 @author: Saubhik
 """
 #using a txt file
-# with open('test.txt','r') as f:
+# with open('week5_test_data.txt','r') as f:
 #     data= f.readlines()
 # data=[i.rstrip() for i in data]
 
